@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Zscaler Zero Trust Exchange",
+    "emoji": "🔐",
+    "logo": "https://www.zscaler.com/themes/custom/zscaler/logo_dark.svg",
+    "description": "クラウドネイティブなゼロトラストセキュリティプラットフォーム。全ユーザーとトラフィックを検査・防御",
+    "price": 45000,
+    "category": "ゼロトラストセキュリティ",
+    "longDescription": "Zscaler Zero Trust Exchangeは、従来のネットワーク境界型セキュリティから脱却し、クラウド向けのゼロトラストセキュリティを実現します。全トラフィックを検査・制御し、サイバー攻撃を未然に防ぎます。",
+    "features": [
+      "クラウドベースの検査・制御",
+      "全トラフィックのDLP（Data Loss Prevention）",
+      "AIによる脅威検知と自動ブロック",
+      "複数クラウド環境対応（AWS/Azure/GCP）",
+      "リアルタイムの脅威インテリジェンス"
+    ],
+    "targetUsers": "CISO、セキュリティ責任者、大企業",
+    "demoLink": "/demo/zscaler"
+  },
+  {
+    "id": 2,
+    "name": "Cato Cloud",
+    "emoji": "☁️",
+    "logo": "https://www.catonetworks.com/hubfs/Images/Logos/Cato-Logo_Color.svg",
+    "description": "統合クラウドネットワークセキュリティ。WAN・ネットワーク・セキュリティを一元管理",
+    "price": 52000,
+    "category": "統合SASE",
+    "longDescription": "Catoは、WAN、ネットワークセキュリティ、クラウドセキュリティを統合したSASEプラットフォームです。複雑なネットワークアーキテクチャを単純化し、セキュリティを強化します。",
+    "features": [
+      "統合SASE（Secure Access Service Edge）",
+      "複数拠点間の最適化ルーティング",
+      "SDL（Software-Defined WAN）",
+      "クラウドファイアウォール",
+      "リアルタイムネットワーク可視化"
+    ],
+    "targetUsers": "ネットワークエンジニア、大規模企業",
+    "demoLink": "/demo/cato"
+  },
+  {
+    "id": 3,
+    "name": "Prisma Cloud",
+    "emoji": "🌥️",
+    "logo": "https://www.paloaltonetworks.com/content/dam/pan/en_US/images/logos/palo-alto-networks-logo.svg",
+    "description": "マルチクラウドセキュリティプラットフォーム。クラウドインフラ・アプリケーション・データを保護",
+    "price": 38000,
+    "category": "クラウドセキュリティ",
+    "longDescription": "Palo Alto Networksの Prisma Cloudは、AWS、Azure、GCP across複数のクラウド環境でセキュリティ検知を提供します。コンテナ、サーバーレス、IaC検査により、開発の早期段階でリスクを検出します。",
+    "features": [
+      "マルチクラウド環境の一元管理",
+      "コンテナセキュリティスキャン",
+      "IaC（Infrastructure as Code）検査",
+      "ランタイムセキュリティ監視",
+      "CNAPP（Cloud Native Application Protection）"
+    ],
+    "targetUsers": "クラウドセキュリティエンジニア、DevOpsチーム",
+    "demoLink": "/demo/prisma"
+  },
+  {
+    "id": 4,
+    "name": "Netskope",
+    "emoji": "🚀",
+    "logo": "https://www.netskope.com/assets/logos/netskope-logo-color.svg",
+    "description": "クラウドとウェブセキュリティプラットフォーム。SaaSアプリケーションアクセスを安全に制御",
+    "price": 41000,
+    "category": "クラウドアクセスSASE",
+    "longDescription": "Netskopeは、クラウドへのアクセスと利用を監視・制御するSASEプラットフォーム。シャドーIT検知、DLP、脅威防御を提供し、エンタープライズクラウドセキュリティを実現します。",
+    "features": [
+      "シャドーIT検知・管理",
+      "クラウドアプリケーション制御",
+      "DLP（Data Loss Prevention）",
+      "脅威検知・ブロック",
+      "ユーザー行動分析（UBA）"
+    ],
+    "targetUsers": "セキュリティアナリスト、CISO",
+    "demoLink": "/demo/netskope"
+  },
+  {
+    "id": 5,
+    "name": "iBoss Cloud Platform",
+    "emoji": "🛡️",
+    "logo": "https://www.iboss.com/hubfs/iboss%20logo.svg",
+    "description": "クラウドベースの統合セキュリティプラットフォーム。Webフィルタリング、ファイアウォール、DLPを統合",
+    "price": 35000,
+    "category": "統合セキュリティ",
+    "longDescription": "iBoss Cloud Platformは、企業のセキュリティ要件をクラウドで実現するプラットフォームです。Webフィルタリング、アドバンスドファイアウォール、DLP、邪悪なソフトウェアブロッキングを統合提供します。",
+    "features": [
+      "AIレベルのWebフィルタリング",
+      "アドバンスドファイアウォール",
+      "DLP（Data Loss Prevention）",
+      "悪質なソフトウェア検知・防止",
+      "リアルタイム脅威インテリジェンス"
+    ],
+    "targetUsers": "IT管理者、セキュリティマネージャー",
+    "demoLink": "/demo/iboss"
+  },
+  {
+    "id": 6,
+    "name": "Cisco Umbrella",
+    "emoji": "☔",
+    "logo": "https://www.cisco.com/c/dam/en/us/products/security/cisco-umbrella/umbrella-logo.svg",
+    "description": "DNSレベルのセキュリティ。マルウェア・フィッシング・ボットネットから保護",
+    "price": 28000,
+    "category": "DNS Security",
+    "longDescription": "Cisco Umbrellaは、DNSインタラクションで脅威を検知・ブロックする最初の防御層です。マルウェア、フィッシング、ランサムウェアからの保護をまず提供します。",
+    "features": [
+      "DNSブロッキング-マルウェア・フィッシング検知",
+      "ボットネット検知",
+      "コンテンツフィルタリング",
+      "クラウドセキュリティ統合",
+      "リアルタイム脅威情報"
+    ],
+    "targetUsers": "ネットワーク管理者、SMB",
+    "demoLink": "/demo/umbrella"
+  },
+  {
+    "id": 7,
+    "name": "Cloudflare One",
+    "emoji": "🌐",
+    "logo": "https://www.cloudflare.com/favicon.ico",
+    "description": "ゼロトラスト・ネットワークアクセス・セキュリティプラットフォーム。リモートワークの保護",
+    "price": 32000,
+    "category": "ゼロトラストNAC",
+    "longDescription": "Cloudflare Oneは、ネットワーク・セキュリティテクノロジーを一元化し、リモートワーカーと支社の保護を実現します。Cloudflareのグローバルネットワークを活用した高速・安全なアクセスを提供します。",
+    "features": [
+      "ゼロトラストネットワークアクセス（ZTNA）",
+      "シングルサインオン（SSO）",
+      "デバイスポスチャーチェック",
+      "ブラウザアイソレーション",
+      "アプリケーションレイヤーセキュリティ"
+    ],
+    "targetUsers": "リモートワーク推進企業、グローバル企業",
+    "demoLink": "/demo/cloudflare"
+  },
+  {
+    "id": 8,
+    "name": "Fortinet FortiGate",
+    "emoji": "🔥",
+    "logo": "https://www.fortinet.com/content/dam/fortinet/images/ui/logos/fortinet-logo.svg",
+    "description": "統合脅威管理（UTM）・ネクストジェネレーションファイアウォール。高性能・低遅延セキュリティ",
+    "price": 42000,
+    "category": "ネットワークセキュリティ",
+    "longDescription": "Fortinet FortiGateは、次世代ファイアウォールとして、脅威検知・防御・統合を提供します。威力のあるプロセッサーを搭載し、高スループット・低遅延でのセキュリティを実現します。",
+    "features": [
+      "次世代ファイアウォール（NGFW）",
+      "IPS/IDS（侵入検知・防止）",
+      "検査の深いプロトコル解析",
+      "アンチマルウェア・アンチボット",
+      "VPN・遠隔アクセス機能"
+    ],
+    "targetUsers": "企業ネットワークエンジニア、大規模組織",
+    "demoLink": "/demo/fortigate"
+  },
+  {
+    "id": 9,
+    "name": "Proofpoint Email Security",
+    "emoji": "📧",
+    "logo": "https://www.proofpoint.com/sites/default/files/inline-images/pp-logo.png",
+    "description": "メールセキュリティと高度な脅威防御。フィッシング・ランサムウェア・スプーイングから保護",
+    "price": 36000,
+    "category": "メールセキュリティ",
+    "longDescription": "Proofpointのメールセキュリティソリューションは、高度なメール脅威から組織を保護します。AI/ML駆動の脅威検知により、フィッシング、スプーイング、ランサムウェア、詐欺を検知・ブロックします。",
+    "features": [
+      "フィッシング検知・ブロック",
+      "メールスプーイング対策",
+      "ランサムウェア検知・隔離",
+      "ビジネスメール詐欺（BEC）対策",
+      "ユーザー教育・意識向上"
+    ],
+    "targetUsers": "セキュリティ責任者、大企業",
+    "demoLink": "/demo/proofpoint"
+  },
+  {
+    "id": 10,
+    "name": "Crowdstrike Falcon",
+    "emoji": "🦅",
+    "logo": "https://www.crowdstrike.com/wp-content/uploads/2022/08/crowdstrike-logo.svg",
+    "description": "エンドポイント検知・対応（EDR）プラットフォーム。リアルタイム脅威検知と自動対応",
+    "price": 48000,
+    "category": "エンドポイント保護",
+    "longDescription": "CrowdStrike Falconは、クラウドベースのエンドポイント保護プラットフォーム。全デバイスリアルタイム可視化、AI駆動脅威検知、自動対応機能で、高度な脅威を防御します。",
+    "features": [
+      "リアルタイムエンドポイント可視化",
+      "AI駆動脅威検知",
+      "自動対応・隔離",
+      "脅威狩り機能",
+      "インシデント対応自動化"
+    ],
+    "targetUsers": "セキュリティオペレーション、大企業SOC",
+    "demoLink": "/demo/crowdstrike"
+  }
+]
