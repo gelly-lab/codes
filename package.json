@@ -1,0 +1,13 @@
+{
+  "name": "codes",
+  "version": "1.0.0",
+  "description": "This repository contains a simple JavaScript implementation of Tetris.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
